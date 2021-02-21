@@ -1,4 +1,3 @@
-[Ana sayfa](README.md)
 # Akran değerlendirmesi
 Uzaktan eğitimle birlikte değerlendirme konusunda ciddi sıkıntılar çıktı. Bu sıkıntıların en büyüğü de sınavlara kendiniz yerine bir başkasını sokabilmenin inanılmaz kolaylığı. Öğrencilerimden bu konuda kendilerine gelen teklifleri, internetteki ilanları gözlerimle bizzat gördüğümden ötürü bu süreçte yazılı sınav yapmak yerine ödev & projeler ile sözlü sınavlarla mümkün mertebe değerlendirme yapmaya çalışıyorum. Bunun alternatifi (bazı derslerinizde bizzat deneyimlemiş olacağınız üzere) hocanın "nasılsa kopya çekip, başkalarına yaptıracaklar, o halde zaman sınırını iyice azaltayım, soruyu da zor sorayım, uğraşsınlar" şeklinde ki, bu yaklaşımı doğru bulmadığımdan (kopya çeken yine çekiyor, olan hakkıyla çalışana oluyor diye düşünüyorum), bu yolu seçtim.
 

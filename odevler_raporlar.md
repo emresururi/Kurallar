@@ -1,4 +1,3 @@
-[Ana sayfa](README.md)
 # Ödevler & Raporlar
 * Sizlere verilen ödevlerde (hele ki bu uzaktan eğitim sürecinde verilenlerde) amaç sizin google’daki arama, tercüme etme ve kopyala/yapıştır hünerlerinizi ölçmek değildir. Ortaokul dönem ödevinizde belki işe yaramıştır ama akademik ortamda bu ciddi bir suçtur.
 * Diğer hocalarınızda sorun olmayabilir ama benim derslerim özelinde:
