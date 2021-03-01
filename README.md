@@ -8,6 +8,7 @@ Danışmanlık, dersler hakkındaki sorular ve diğer akademik sıkıntılar kon
 Dersle ilgili (ödev, proje, vs.) dosya göndermeden önce...
 
 ## [Uzaktan Eğitim](uzaktan_egitim.md)
+Uzaktan eğitimle ilgili sıkıntılar, ricalar, tavsiyeler.
 
 ## [Ödevler & Raporlar](odevler_raporlar.md)
 Ödev ve/veya rapor hazırlarken dikkat edilecek şeyler, özellikle de alıntı yapma yöntemleri hakkında.
@@ -18,3 +19,4 @@ Formül yazımından faydalı internet sitelerine...
 Grup ödev ve projelerinizdeki katkı miktarlarını değerlendirirken dikkat etmeniz gereken noktalar.
 
 ## [Yardımlaşma ve Paylaşma](yardimlasma_paylasma.md)
+Burs ve kitap paylaşımı hakkında.
