@@ -2,7 +2,7 @@
 
 ## Bölüm öğrencilerimize burs
 Gelen destekler sayesinde ne mutlu ki yıllardır düzenli olarak ihtiyacı olanlara aktardığımız -ufak bir meblağ da olsa- resmi olmayan bir bursumuz var. Burstan faydalanmak için aşağıdaki şartları arıyoruz, duyurusunu da dönem başlarında yapıyoruz:
-1. Öğrencinin ihtiyacının olması (temel şart)
+1. Öğrencinin ihtiyacının olması (temel şart).
 2. Öğrencinin bir önceki dönemde almış olduğu derslerin en azından yarısından geçmiş olması.
 3. Öğrencinin bir önceki dönemde almış olduğu derslerin hiçbirisinden F1 ya da F2 ile kalmamış olması.
 
