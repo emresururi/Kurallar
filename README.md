@@ -1,5 +1,5 @@
 # EST Kuralları
-Genel olarak akademik, özelde benimle çalışırken/iletişime geçerken dikkat edilmesi gereken kurallar, tavsiyeler.
+Genel olarak akademik, özelde benimle çalışırken/iletişime geçerken dikkat edilmesi gereken kurallar, tavsiyeler(, _ahkâmlarrrr_).
 
 Dr. Emre S. Taşcı <[emre.tasci@hacettepe.edu.tr](mailto:emre.tasci@hacettepe.edu.tr)>
 ## [İletişim](iletisim.md)
