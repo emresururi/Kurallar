@@ -20,3 +20,6 @@ Grup ödev ve projelerinizdeki katkı miktarlarını değerlendirirken dikkat et
 
 ## [Yardımlaşma ve Paylaşma](yardimlasma_paylasma.md)
 Burs ve kitap paylaşımı hakkında.
+
+## [Referans ve Jüriler](refjuri.md)
+Başvurularınız için referans, tez savunmalarınız/projeleriniz için jüri üyeliği isterken...
