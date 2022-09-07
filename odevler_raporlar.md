@@ -21,7 +21,7 @@
 <br>şeklinde, gayet akademik ve etik bir alıntı yapmış olursunuz.
   * Alıntıladığınız metinde başka metinlere gönderme varsa (yani o metinlerde de o kısımlarda kaynakça belirtilmişse) bunları hiçbir şekilde çıkaramazsınız. O kaynak bilgisini çıkarmak demek, ilgili kısmı alıntı yaptığınız kişiye ithaf etmek anlamına geleceğinden, kendi yaptığınız alıntıda kaynak belirtmemekle eşdeğer olur.
       
-Alıntı konusunda gayet net bilgiyi (ve fazlasını!) Başkent Üniversitesi’nin hazırlamış olduğu “Akademik Yazım Kuralları Kitapçığı”nda (özellikle sayfa 24’deki “Akademik Aşırmacılık (Plagiarism) başlığı altında ve sonrasında) bulabilirsiniz
-       ([http://psk.baskent.edu.tr/news/aykk.html](http://psk.baskent.edu.tr/news/aykk.html)).
+Alıntı konusunda gayet net bilgiyi (ve fazlasını!) Başkent Üniversitesi’nin hazırlamış olduğu “Akademik Yazım Kuralları Kitapçığı”nda (özellikle sayfa 57’deki “Akademik Aşırmacılık (Plagiarism) başlığı altında ve sonrasında) bulabilirsiniz
+       ([https://www.researchgate.net/publication/320226024_Akademik_Yazim_Kurallari_Kitapcigi_5_Baski](https://www.researchgate.net/publication/320226024_Akademik_Yazim_Kurallari_Kitapcigi_5_Baski)).
 
 [Ana sayfa](README.md)
