@@ -21,5 +21,8 @@ Grup ödev ve projelerinizdeki katkı miktarlarını değerlendirirken dikkat et
 ## [Yardımlaşma ve Paylaşma](yardimlasma_paylasma.md)
 Burs ve kitap paylaşımı hakkında.
 
+## [Proje Danışmanlığı](proje_danismanligi.md)
+Proje danışmanınız olduğum takdirde sizi bekleyen durumlar...
+
 ## [Referans ve Jüriler](refjuri.md)
 Başvurularınız için referans, tez savunmalarınız/projeleriniz için jüri üyeliği isterken...
